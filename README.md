@@ -10,7 +10,8 @@
 
 <!-- 访问量统计 -->
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSky-Sheepfold&count_bg=%2370A5FD&title_bg=%231A1B27&icon=github&icon_color=%23FFFFFF&title=%E8%AE%BF%E9%97%AE%E9%87%8F&edge_flat=false" />
+  <img src="https://img.shields.io/github/followers/Sky-Sheepfold?label=Followers&style=for-the-badge&color=70a5fd&labelColor=1a1b27" />
+  <img src="https://img.shields.io/github/stars/Sky-Sheepfold?label=Stars&style=for-the-badge&color=70a5fd&labelColor=1a1b27" />
 </p>
 
 ---
@@ -63,7 +64,7 @@ public class SheepFold {
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smileys/Nerd%20Face.png" width="35"> 技术栈
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Thumbs%20Up.png" width="35"> 技术栈
 
 <!-- 动态技能图标 -->
 <p align="center">
