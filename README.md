@@ -5,7 +5,7 @@
 
 <!-- 打字机动态文字 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=520&lines=Java%20%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E8%80%85%3BSpring%20%E5%85%A8%E5%AE%B6%E6%A1%B6%E7%8E%A9%E5%AE%B6%3BRedis%20%2F%20MySQL%20%2F%20MyBatisPlus%3B%E8%BF%98%E6%9C%891%E5%B9%B4%E6%AF%95%E4%B8%9A%EF%BC%8C%E4%BD%86%E5%B7%B2%E7%BB%8F%E5%9C%A8%E5%81%9A%E4%BA%86%3B%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%20GitHub" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=520&lines=Java%20%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E8%80%85%3BSpring%20%E5%85%A8%E5%AE%B6%E6%A1%B6%E7%8E%A9%E5%AE%B6%3BRedis%20%2F%20MySQL%20%2F%20MyBatisPlus%3B%E8%BF%98%E6%9C%89%E4%B8%80%E5%B9%B4%E6%AF%95%E4%B8%9A%EF%BC%8C%E4%BD%86%E5%B7%B2%E7%BB%8F%E5%9C%A8%E5%81%9A%E4%BA%86%3B%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%20GitHub" alt="Typing SVG" />
 </p>
 
 <!-- 访问量统计 -->
