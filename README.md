@@ -1,6 +1,6 @@
 <!-- 动态头部横幅 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=200&section=header&text=Sky-Sheepfold&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Student%20%7C%20Java%20Backend%20%7C%20Building%20in%20Progress&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=200&section=header&text=Sky-Sheepfold&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=万物皆可写代码解决&descAlignY=58&descSize=18" />
 </p>
 
 <!-- 打字机动态文字 -->
