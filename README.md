@@ -15,7 +15,7 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Waving%20Hand.png" width="35"> 关于我
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35"> 关于我
 
 <table>
   <tr>
@@ -63,7 +63,7 @@ public class SheepFold {
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="35"> 技术栈
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" width="35"> 技术栈
 
 <!-- 动态技能图标 -->
 <p align="center">
@@ -84,18 +84,16 @@ public class SheepFold {
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="35"> GitHub 数据
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sky-Sheepfold&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sky-Sheepfold&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sky-Sheepfold&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sky-Sheepfold&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
 </p>
 
 <!-- 连续提交记录 -->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Sky-Sheepfold&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j" />
-</p>
-
-<!-- 贡献活动折线图（修正后的域名） -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sky-Sheepfold&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
