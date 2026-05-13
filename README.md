@@ -86,19 +86,18 @@
 | [项目名](https://github.com/Sky-Sheepfold/仓库名) | 一句话说清楚这个项目解决了什么问题 | Spring Boot / Redis |
 | [项目名](https://github.com/Sky-Sheepfold/仓库名) | 一句话说清楚这个项目解决了什么问题 | Spring Cloud / MySQL |
 -->
----
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" width="35"> 联系我
 
 <p align="left">
   <!-- TODO: 把 # 替换成你的真实链接 -->
-  <a href="#" target="_blank">
+  <!-- <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" />
   </a>
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Bilibili-FB7299?style=for-the-badge&logo=bilibili&logoColor=white" />
-  </a>
-  <a href="mailto:your@email.com">
+  </a> -->
+  <a href="mailto:2786735826@qq.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
