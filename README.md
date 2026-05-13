@@ -1,11 +1,11 @@
 <!-- 动态头部横幅 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=200&section=header&text=Sky-Sheepfold&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=在校%20·%20Java%20后端%20·%20折腾中&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=200&section=header&text=Sky-Sheepfold&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Student%20%7C%20Java%20Backend%20%7C%20Building%20in%20Progress&descAlignY=58&descSize=18" />
 </p>
 
-<!-- 打字机动态文字 -->
+<!-- 打字机动态文字（纯英文避免编码问题） -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Java+Backend+Developer;Spring+Boot+%2F+Spring+Cloud;还有两年毕业，但已经在做了;Welcome+to+my+GitHub" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=520&lines=Java+Backend+Developer;Spring+Boot+%2F+Spring+Cloud;Redis+%2F+MySQL+%2F+MyBatisPlus;2+Years+to+Graduate%2C+Already+Building;Welcome+to+my+GitHub+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 
 <!-- 访问量统计 -->
@@ -30,12 +30,12 @@
 
 ### 技术栈
 
-<!-- 动态技能图标（skillicons） -->
+<!-- 动态技能图标 -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,maven,git,linux,idea&theme=dark&perline=8" />
 </p>
 
-<!-- shields 徽章补充 -->
+<!-- shields 徽章 -->
 <p align="center">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
@@ -58,14 +58,9 @@
   <img src="https://streak-stats.demolab.com?user=Sky-Sheepfold&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j" />
 </p>
 
-<!-- 贡献活动折线图 -->
+<!-- 贡献活动折线图（修正后的域名） -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sky-Sheepfold&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
-<!-- 贪吃蛇吃掉提交记录动画（需要配置 GitHub Actions，见下方说明） -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sky-Sheepfold/Sky-Sheepfold/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sky-Sheepfold&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
@@ -74,6 +69,19 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sky-Sheepfold&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
+</p>
+
+---
+
+<!-- 贪吃蛇动画（Actions 跑完后自动生效） -->
+### Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sky-Sheepfold/Sky-Sheepfold/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sky-Sheepfold/Sky-Sheepfold/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Sky-Sheepfold/Sky-Sheepfold/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
@@ -109,34 +117,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,100:1a1b27&height=100&section=footer" />
 </p>
-
-<!--
-=== 贪吃蛇动画启用说明 ===
-需要在仓库里创建 GitHub Actions 文件：
-路径：.github/workflows/snake.yml
-内容如下：
-
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Sky-Sheepfold
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
