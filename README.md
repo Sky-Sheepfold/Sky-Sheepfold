@@ -34,6 +34,11 @@
 
 ![状态](https://img.shields.io/badge/状态-正在做项目中-FF4444?style=flat-square&labelColor=1a1b27)
 
+- 🌱 目前正在学习 **（你在学的技术）**
+- 🔭 正在做的项目：**（你的项目名）**
+- 💬 欢迎聊聊 **Python / TypeScript / 你擅长的方向**
+- 📫 联系方式：**your@email.com**
+- ⚡ 有趣的事：**（一句有个性的自我介绍）**
 ---
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Thumbs%20Up.png" width="35"> 技术栈
