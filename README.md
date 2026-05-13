@@ -34,34 +34,6 @@
 
 ![状态](https://img.shields.io/badge/状态-正在做项目中-FF4444?style=flat-square&labelColor=1a1b27)
 
-![在学](https://img.shields.io/badge/在学-<!-- TODO: 填写你在学的技术 -->-FAC775?style=flat-square&labelColor=1a1b27)
-
-    </td>
-    <td valign="top" width="45%">
-
-```java
-public class SheepFold {
-
-    private final String name    = "Sky-Sheepfold";
-    private final String school  = "在读 · 2027届";
-    private final String focus   = "Java 后端";
-
-    private final String[] stack = {
-        "Spring Boot / Cloud",
-        "Redis", "MySQL",
-        "MyBatisPlus"
-    };
-
-    public String getStatus() {
-        return "不是在学，是在做";
-    }
-}
-```
-
-    </td>
-  </tr>
-</table>
-
 ---
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Thumbs%20Up.png" width="35"> 技术栈
