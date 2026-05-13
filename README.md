@@ -3,9 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=200&section=header&text=Sky-Sheepfold&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Student%20%7C%20Java%20Backend%20%7C%20Building%20in%20Progress&descAlignY=58&descSize=18" />
 </p>
 
-<!-- 打字机动态文字（纯英文避免编码问题） -->
+<!-- 打字机动态文字 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=520&lines=Java+Backend+Developer;Spring+Boot+%2F+Spring+Cloud;Redis+%2F+MySQL+%2F+MyBatisPlus;2+Years+to+Graduate%2C+Already+Building;Welcome+to+my+GitHub+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=520&lines=Java%20%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E8%80%85;Spring%20%E5%85%A8%E5%AE%B6%E6%A1%B6%E7%8E%A9%E5%AE%B6;Redis%20/%20MySQL%20/%20MyBatisPlus;%E8%BF%98%E6%9C%89%E4%B8%A4%E5%B9%B4%E6%AF%95%E4%B8%9A%EF%BC%8C%E4%BD%86%E5%B7%B2%E7%BB%8F%E5%9C%A8%E5%81%9A%E4%BA%86;%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%20GitHub" alt="Typing SVG" />
 </p>
 
 <!-- 访问量统计 -->
@@ -17,14 +17,49 @@
 
 ### 关于我
 
-还有两年毕业，但已经开始用生产级技术写自己的东西。
-用 Spring 全家桶搭服务、用 Redis 做缓存、用 MyBatisPlus 和 MySQL 管数据——
-不是在学，是在做。
+<table>
+  <tr>
+    <td valign="top" width="55%">
 
-- 目前正在学习：**<!-- TODO: 填写你在学的技术 -->**
-- 正在做的项目：**<!-- TODO: 填写你的项目名 -->**
-- 欢迎聊聊：**Java 后端 / 项目架构 / 任何有趣的技术问题**
-- 联系方式：**<!-- TODO: 填写你的邮箱 -->**
+> 还有两年毕业，但已经开始用生产级技术写自己的东西。
+> 用 Spring 全家桶搭服务、Redis 做缓存、MyBatisPlus 管数据——
+> 不是在学，是在做。
+
+<br>
+
+![身份](https://img.shields.io/badge/身份-在校学生%20·%202027届-70a5fd?style=flat-square&labelColor=1a1b27)
+
+![方向](https://img.shields.io/badge/方向-Java%20后端开发-6DB33F?style=flat-square&labelColor=1a1b27)
+
+![状态](https://img.shields.io/badge/状态-正在做项目中-FF4444?style=flat-square&labelColor=1a1b27)
+
+![在学](https://img.shields.io/badge/在学-<!-- TODO: 填写你在学的技术 -->-FAC775?style=flat-square&labelColor=1a1b27)
+
+    </td>
+    <td valign="top" width="45%">
+
+```java
+public class SheepFold {
+
+    private final String name    = "Sky-Sheepfold";
+    private final String school  = "在读 · 2027届";
+    private final String focus   = "Java 后端";
+
+    private final String[] stack = {
+        "Spring Boot / Cloud",
+        "Redis", "MySQL",
+        "MyBatisPlus"
+    };
+
+    public String getStatus() {
+        return "不是在学，是在做";
+    }
+}
+```
+
+    </td>
+  </tr>
+</table>
 
 ---
 
