@@ -17,21 +17,8 @@
 ---
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35"> 关于我
-
-<table>
-  <tr>
-    <td valign="top" width="55%">
-
-> 还有两年毕业，但已经开始用生产级技术写自己的东西。
-> 用 Spring 全家桶搭服务、Redis 做缓存、MyBatisPlus 管数据——
-> 不是在学，是在做。
-
-<br>
-
 ![身份](https://img.shields.io/badge/身份-在校学生%20·%202027届-70a5fd?style=flat-square&labelColor=1a1b27)
-
 ![方向](https://img.shields.io/badge/方向-Java%20后端开发-6DB33F?style=flat-square&labelColor=1a1b27)
-
 ![状态](https://img.shields.io/badge/状态-正在做项目中-FF4444?style=flat-square&labelColor=1a1b27)
 
 - 🌱 持续学习中
