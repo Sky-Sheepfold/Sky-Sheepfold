@@ -15,7 +15,7 @@
 
 ---
 
-### 关于我
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Waving%20Hand.png" width="35"> 关于我
 
 <table>
   <tr>
@@ -63,7 +63,7 @@ public class SheepFold {
 
 ---
 
-### 技术栈
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="35"> 技术栈
 
 <!-- 动态技能图标 -->
 <p align="center">
@@ -81,7 +81,7 @@ public class SheepFold {
 
 ---
 
-### GitHub 数据
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="35"> GitHub 数据
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sky-Sheepfold&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
@@ -100,7 +100,7 @@ public class SheepFold {
 
 ---
 
-### GitHub 成就
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="35"> GitHub 成就
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sky-Sheepfold&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
@@ -109,7 +109,7 @@ public class SheepFold {
 ---
 
 <!-- 贪吃蛇动画（Actions 跑完后自动生效） -->
-### Contribution Snake
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="35"> Contribution Snake
 
 <p align="center">
   <picture>
@@ -121,7 +121,7 @@ public class SheepFold {
 
 ---
 
-### 正在做的项目
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35"> 正在做的项目
 
 <!-- TODO: 填写你的项目信息 -->
 | 项目 | 描述 | 技术 |
@@ -131,7 +131,7 @@ public class SheepFold {
 
 ---
 
-### 联系我
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" width="35"> 联系我
 
 <p align="left">
   <!-- TODO: 把 # 替换成你的真实链接 -->
