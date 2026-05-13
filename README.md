@@ -9,10 +9,10 @@
 </p>
 
 <!-- 访问量统计 -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://img.shields.io/github/followers/Sky-Sheepfold?label=Followers&style=for-the-badge&color=70a5fd&labelColor=1a1b27" />
   <img src="https://img.shields.io/github/stars/Sky-Sheepfold?label=Stars&style=for-the-badge&color=70a5fd&labelColor=1a1b27" />
-</p>
+</p> -->
 
 ---
 
@@ -75,15 +75,17 @@
 </p>
 
 ---
-
+<!--
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35"> 正在做的项目
+-->
 
 <!-- TODO: 填写你的项目信息 -->
+<!--
 | 项目 | 描述 | 技术 |
 |------|------|------|
 | [项目名](https://github.com/Sky-Sheepfold/仓库名) | 一句话说清楚这个项目解决了什么问题 | Spring Boot / Redis |
 | [项目名](https://github.com/Sky-Sheepfold/仓库名) | 一句话说清楚这个项目解决了什么问题 | Spring Cloud / MySQL |
-
+-->
 ---
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" width="35"> 联系我
