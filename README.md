@@ -37,7 +37,8 @@
 🌱 持续学习中
 🌙 夜间编码爱好者
 ☕ 靠咖啡运转
-⚡ 有趣的事：
+⚡ 用代码把想法变成现实
+
 ---
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Thumbs%20Up.png" width="35"> 技术栈
