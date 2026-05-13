@@ -1,81 +1,92 @@
-<h1 align="center">Hi 👋, I'm Sky</h1>
-<h3 align="center">JAVA开发者 · 喜欢折腾有趣的东西</h3>
-
+<!-- 动态头部横幅 -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sky-Sheepfold&label=Profile%20views&color=0e75b6&style=flat" alt="访问量" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=200&section=header&text=Sky-Sheepfold&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=在校%20·%20Java%20后端%20·%20折腾中&descAlignY=58&descSize=18" />
+</p>
+
+<!-- 访问量统计 -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sky-Sheepfold&label=Profile%20Views&color=70a5fd&style=for-the-badge" />
 </p>
 
 ---
 
-### 🧑‍💻 关于我
+### 关于我
 
-- 🌱 目前正在学习 **（你在学的技术）**
-- 🔭 正在做的项目：**（你的项目名）**
-- 💬 欢迎聊聊 **Python / TypeScript / 你擅长的方向**
-- 📫 联系方式：**your@email.com**
-- ⚡ 有趣的事：**（一句有个性的自我介绍）**
+还有两年毕业，但已经开始用生产级技术写自己的东西。
+用 Spring 全家桶搭服务、用 Redis 做缓存、用 MyBatisPlus 和 MySQL 管数据——
+不是在学，是在做。
+
+- 目前正在学习：**<!-- TODO: 填写你在学的技术 -->**
+- 正在做的项目：**<!-- TODO: 填写你的项目名 -->**
+- 欢迎聊聊：**Java 后端 / 项目架构 / 任何有趣的技术问题**
+- 联系方式：**<!-- TODO: 填写你的邮箱 -->**
 
 ---
 
-### 🛠️ 技术栈
+### 技术栈
 
+<!-- 后端核心 -->
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/MyBatisPlus-FF4444?style=for-the-badge&logo=mybatis&logoColor=white" />
 </p>
 
-> 💡 **如何自定义徽章**：访问 [shields.io](https://shields.io) 或 [badge generator](https://badge-generator.vercel.app/) 生成你自己的技术栈徽章
-
----
-
-### 📊 GitHub 数据
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sky-Sheepfold&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sky-Sheepfold&layout=compact&langs_count=7&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sky-Sheepfold&theme=tokyonight&hide_border=true" />
+<!-- 数据层 -->
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
 ---
 
-### 🏆 GitHub 成就
+### GitHub 数据
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sky-Sheepfold&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sky-Sheepfold&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sky-Sheepfold&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
+</p>
+
+<!-- 连续提交记录 -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sky-Sheepfold&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j" />
+</p>
+
+<!-- 贡献活动折线图 -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sky-Sheepfold&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
 
-### 📌 精选项目
+### GitHub 成就
 
-<!--
-使用 GitHub 的 "Pin a repository" 功能在主页固定项目，
-或在这里手动添加项目卡片：
--->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sky-Sheepfold&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
+</p>
 
-| 项目 | 描述 | 语言 |
+---
+
+### 正在做的项目
+
+<!-- TODO: 填写你的项目信息 -->
+| 项目 | 描述 | 技术 |
 |------|------|------|
-| [项目名](https://github.com/Sky-Sheepfold/仓库名) | 一句话描述这个项目 | Python |
-| [项目名](https://github.com/Sky-Sheepfold/仓库名) | 一句话描述这个项目 | TypeScript |
+| [项目名](https://github.com/Sky-Sheepfold/仓库名) | 一句话说清楚这个项目解决了什么问题 | Spring Boot / Redis |
+| [项目名](https://github.com/Sky-Sheepfold/仓库名) | 一句话说清楚这个项目解决了什么问题 | Spring Cloud / MySQL |
 
 ---
 
-### 🌐 联系我
+### 联系我
 
 <p align="left">
-  <!-- 把下面的 # 换成你真实的链接 -->
+  <!-- TODO: 把 # 替换成你的真实链接 -->
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" />
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Bilibili-FB7299?style=for-the-badge&logo=bilibili&logoColor=white" />
   </a>
   <a href="mailto:your@email.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -84,6 +95,7 @@
 
 ---
 
+<!-- 动态底部波浪 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,100:1a1b27&height=100&section=footer" />
 </p>
