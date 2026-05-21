@@ -48,9 +48,11 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="35"> GitHub 数据
 
-<!-- 连续提交记录 -->
+<!-- GitHub 数据统计 -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sky-Sheepfold&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Sky-Sheepfold&query=$.public_repos&label=Public%20Repos&style=for-the-badge&color=70a5fd&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Sky-Sheepfold&query=$.followers&label=Followers&style=for-the-badge&color=70a5fd&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Sky-Sheepfold&query=$.following&label=Following&style=for-the-badge&color=70a5fd&labelColor=1a1b27" />
 </p>
 
 ---
